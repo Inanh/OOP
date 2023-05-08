@@ -1,0 +1,3 @@
+cria planicie 5
+cria montanha 3
+cria mina 2

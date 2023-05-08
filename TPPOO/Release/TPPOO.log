@@ -1,0 +1,18 @@
+﻿  Interface.cpp
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.h(23,32): error C4596: 'getContaTerritorios': illegal qualified name in member declaration
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Interface.cpp(46,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Interface.cpp(52,5): error C2059: syntax error: '}'
+  main.cpp
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.h(23,32): error C4596: 'getContaTerritorios': illegal qualified name in member declaration
+  Mundo.cpp
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.h(23,32): error C4596: 'getContaTerritorios': illegal qualified name in member declaration
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.cpp(21,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.cpp(24,3): error C2450: switch expression of type 'std::string' is illegal
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.cpp(23,24): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.cpp(25,21): error C2440: 'type cast': cannot convert from 'const char [11]' to 'int'
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.cpp(25,8): message : There is no context in which this conversion is possible
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.cpp(25,3): error C2046: illegal case
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.cpp(29,3): error C2059: syntax error: '}'
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.cpp(29,3): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\nenel\OneDrive\Ambiente de Trabalho\TPPOO\TPPOO\Mundo.cpp(39,22): error C2059: syntax error: '<<'
+  Territorio.cpp
